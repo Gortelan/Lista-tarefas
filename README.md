@@ -1,5 +1,5 @@
 "# Projeto Lista-tarefas"
 
-Javascript
-HTML5
+Javascript<br>
+HTML5<br>
 CSS3
